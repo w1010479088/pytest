@@ -18,5 +18,7 @@ if __name__ == '__main__':
     fish.rename("大俊子")
     print_hi(fish.hungry)
     print_hi(fish.name)
+    name = input("请输入：")
+    print("input = ", name)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
