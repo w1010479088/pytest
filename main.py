@@ -15,6 +15,8 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     fish = Fish()
     fish.eat("little fish")
+    fish.rename("大俊子")
     print_hi(fish.hungry)
+    print_hi(fish.name)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
